@@ -21,8 +21,8 @@ var rawData = []map[string]interface{}{
 	},
 	{
 		"name":      "steven",
-		"hometown":  "Boston, MA",
-		"residence": "Northampton, MA",
+		"hometown":  "Winnepeg, MN",
+		"residence": "Boston, MA",
 	},
 	{
 		"name":      "russell",
